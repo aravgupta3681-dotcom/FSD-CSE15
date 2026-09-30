@@ -1,0 +1,52 @@
+
+
+/* Page Style */
+body{
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+/* Main Container */
+.container{
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+/* Heading */
+h1{
+    color: darkblue;
+}
+
+/* Paragraph */
+p{
+    font-size: 18px;
+    color: #333;
+}
+
+/* Images */
+.profile{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.favorite{
+    width: 350px;
+    height: 220px;
+    border-radius: 10px;
+}
+
+/* Link */
+a{
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+}
+
+a:hover{
+    color: red;
+}
